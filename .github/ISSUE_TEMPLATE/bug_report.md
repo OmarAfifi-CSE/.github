@@ -18,3 +18,17 @@ Steps to reproduce the behavior:
 **Minimal Reproducible Code**
 ```dart
 // Paste a self-contained, minimal Dart/Flutter code snippet here
+```
+
+**Expected Behavior**
+A clear description of what you expected to happen.
+
+**Logs & Stack Trace**
+```text
+// Paste full stack trace or native terminal errors here
+```
+
+**Environment Information**
+* Platform: [e.g. Windows 11 64-bit, Android 14, Web]
+* Package Version: [e.g. 0.5.0]
+* Flutter Version: [e.g. 3.29.0]
